@@ -1,0 +1,80 @@
+# Copyright (C) 2018 VIES Validator
+# This file is distributed under the same license as the VIES Validator package.
+msgid ""
+msgstr ""
+"Project-Id-Version: VIES Validator 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/vies-validator\n"
+"POT-Creation-Date: 2018-07-02 08:45:37+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: admin/class-vies-validator-admin.php:121
+msgid "Vies Validator Settings"
+msgstr ""
+
+#: admin/class-vies-validator-admin.php:122
+msgid "Vies Validator"
+msgstr ""
+
+#: admin/class-vies-validator-admin.php:149
+msgid "General"
+msgstr ""
+
+#: admin/class-vies-validator-admin.php:156
+msgid "Add VAT Number field to checkout"
+msgstr ""
+
+#: admin/class-vies-validator-admin.php:165
+msgid "VAT Number is required?"
+msgstr ""
+
+#: admin/class-vies-validator-admin.php:174
+msgid "Error message"
+msgstr ""
+
+#: admin/class-vies-validator-admin.php:182
+msgid "VAT field ID"
+msgstr ""
+
+#: admin/class-vies-validator-admin.php:227
+#: admin/class-vies-validator-admin.php:239
+msgid "Enable"
+msgstr ""
+
+#: public/class-vies-validator-public.php:119
+#: public/class-vies-validator-public.php:174
+msgid "VAT Number"
+msgstr ""
+
+#: public/class-vies-validator-public.php:124
+msgid "IT99999999999"
+msgstr ""
+
+#: public/class-vies-validator-public.php:186
+msgid "VAT number"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "VIES Validator"
+msgstr ""
+
+#. #-#-#-#-#  vies-validator.pot (VIES Validator 1.0.0)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  vies-validator.pot (VIES Validator 1.0.0)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "https://wpzen.it"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Allow to add a VAT Number (Partita IVA) field to Woocommerce checkout and "
+"validate it using the VIES API service from Agenzia delle Entrate."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "WpZen"
+msgstr ""

@@ -1,0 +1,20 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+ .vies-field {
+ 	display: block;
+ }
+
+ .vies-field.vies-text-field {
+ 	width: 400px;
+ 	max-width: 100%;
+ 	height: 30px;
+ 	padding: 5px;
+ 	display: block;
+ }
+
+ .vies-field.vies-text-field + span.description {
+ 	display: block;
+ }

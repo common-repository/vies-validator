@@ -1,0 +1,91 @@
+# Copyright (C) 2018 VIES Validator
+# This file is distributed under the same license as the VIES Validator package.
+msgid ""
+msgstr ""
+"Project-Id-Version: VIES Validator 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/vies-"
+"validator\n"
+"POT-Creation-Date: 2018-07-02 07:40:32+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-07-02 10:51+0200\n"
+"Language-Team: \n"
+"X-Generator: Poedit 2.0.8\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: it\n"
+
+#: admin/class-vies-validator-admin.php:121
+msgid "Vies Validator Settings"
+msgstr "Impostazioni VIES Validator"
+
+#: admin/class-vies-validator-admin.php:122
+msgid "Vies Validator"
+msgstr "VIES Validator"
+
+#: admin/class-vies-validator-admin.php:149
+msgid "General"
+msgstr "Generali"
+
+#: admin/class-vies-validator-admin.php:156
+msgid "Add VAT Number field to checkout"
+msgstr "Aggiungi il campo Partita IVA al checkout"
+
+#: admin/class-vies-validator-admin.php:165
+msgid "VAT Number is required?"
+msgstr "Il campo Partita IVA è richiesto?"
+
+#: admin/class-vies-validator-admin.php:174
+msgid "Error message"
+msgstr "Messaggio di errore"
+
+#: admin/class-vies-validator-admin.php:182
+msgid "VAT field ID"
+msgstr "ID del campo Partita IVA"
+
+#: admin/class-vies-validator-admin.php:227
+#: admin/class-vies-validator-admin.php:239
+msgid "Enable"
+msgstr "Abilita"
+
+#: public/class-vies-validator-public.php:119
+#: public/class-vies-validator-public.php:174
+msgid "VAT Number"
+msgstr "Partita IVA"
+
+#: public/class-vies-validator-public.php:124
+msgid "Requires a valid Italian VAT Number (Partita IVA)"
+msgstr "Richiede una Partita IVA italiana valida"
+
+#: public/class-vies-validator-public.php:186
+msgid "VAT number"
+msgstr "Partita IVA"
+
+#. Plugin Name of the plugin/theme
+msgid "VIES Validator"
+msgstr "VIES Validator"
+
+#. Plugin URI of the plugin/theme
+msgid "https://larin.it"
+msgstr "https://larin.it"
+
+#. Description of the plugin/theme
+msgid ""
+"Allow to add a VAT Number (Partita IVA) field to Woocommerce checkout and "
+"validate it using the VIES API service from Agenzia delle Entrate."
+msgstr ""
+"Permette di aggiungere il campo Partita IVA al checkout di Woocommerce. "
+"Il campo viene validato tramite le API VIES dell'Agenzia delle Entrate."
+
+#. Author of the plugin/theme
+msgid "WpZen"
+msgstr "WpZen"
+
+#. Author URI of the plugin/theme
+msgid "https://wpzen.it"
+msgstr "https://wpzen.it"
+
+#. Author URI of the plugin/theme
+msgid "IT99999999999"
+msgstr "IT99999999999"
